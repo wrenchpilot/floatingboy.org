@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2015-04-01 07:45:30+00:00
+layout: post
+link: https://floatingboy.org/2015/04/kintsugi/
+slug: kintsugi
+title: kintsugi
+wordpress_id: 1406
+categories:
+  - Instagram
+---
+
+[![kintsugi](/assets/media/2015/04/11055924_1641954086033268_179724459_n.jpg)](/assets/media/2015/04/11055924_1641954086033268_179724459_n.jpg)

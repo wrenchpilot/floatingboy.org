@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2013-06-16 06:45:43+00:00
+layout: post
+link: https://floatingboy.org/2013/06/1993/
+slug: "1993"
+title: "1993"
+wordpress_id: 918
+categories:
+  - Instagram
+---
+
+[![1993](/assets/media/2013/06/686c2a2ed64511e28cf922000a1fcc03_7.jpg)](/assets/media/2013/06/686c2a2ed64511e28cf922000a1fcc03_7.jpg)

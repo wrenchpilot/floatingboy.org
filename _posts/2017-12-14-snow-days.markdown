@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2017-12-14 18:16:09+00:00
+layout: post
+link: https://floatingboy.org/2017/12/snow-days/
+slug: snow-days
+title: Snow days ?
+wordpress_id: 1647
+categories:
+  - Instagram
+---
+
+[![Snow days ?](/assets/media/2017/12/25008231_723060414546441_1404453588532461568_n.jpg)](/assets/media/2017/12/25008231_723060414546441_1404453588532461568_n.jpg)

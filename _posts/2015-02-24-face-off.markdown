@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2015-02-24 16:47:59+00:00
+layout: post
+link: https://floatingboy.org/2015/02/face-off/
+slug: face-off
+title: face off
+wordpress_id: 1386
+categories:
+  - Instagram
+---
+
+[![face off](/assets/media/2015/02/924766_401562826680376_1000339119_n.jpg)](/assets/media/2015/02/924766_401562826680376_1000339119_n.jpg)

@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2018-05-01 11:05:06+00:00
+layout: post
+link: https://floatingboy.org/2018/05/foo-foos/
+slug: foo-foos
+title: Foo foos
+wordpress_id: 1819
+categories:
+  - Instagram
+---
+
+[![Foo foos](/assets/media/2018/05/30605076_432719103846339_6053172253800005632_n.jpg)](/assets/media/2018/05/30605076_432719103846339_6053172253800005632_n.jpg)

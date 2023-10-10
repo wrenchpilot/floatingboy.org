@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2013-11-02 01:11:21+00:00
+layout: post
+link: https://floatingboy.org/2013/11/new-paint/
+slug: new-paint
+title: New paint
+wordpress_id: 1194
+categories:
+  - Instagram
+---
+
+[![New paint](/assets/media/2013/11/20869150432c11e38f2922000a1fb347_8.jpg)](/assets/media/2013/11/20869150432c11e38f2922000a1fb347_8.jpg)

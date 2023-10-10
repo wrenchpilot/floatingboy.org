@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2014-12-08 15:59:09+00:00
+layout: post
+link: https://floatingboy.org/2014/12/cheers/
+slug: cheers
+title: cheers
+wordpress_id: 1363
+categories:
+  - Instagram
+---
+
+[![cheers](/assets/media/2014/12/10843866_205851326251991_488536132_n.jpg)](/assets/media/2014/12/10843866_205851326251991_488536132_n.jpg)

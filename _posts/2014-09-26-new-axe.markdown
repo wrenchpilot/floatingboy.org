@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2014-09-26 02:09:43+00:00
+layout: post
+link: https://floatingboy.org/2014/09/new-axe/
+slug: new-axe
+title: new axe
+wordpress_id: 1333
+categories:
+  - Instagram
+---
+
+[![new axe](/assets/media/2014/09/10707039_299174070275403_1424379165_n.jpg)](/assets/media/2014/09/10707039_299174070275403_1424379165_n.jpg)

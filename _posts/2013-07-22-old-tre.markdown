@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2013-07-22 20:35:26+00:00
+layout: post
+link: https://floatingboy.org/2013/07/old-tre/
+slug: old-tre
+title: old tré
+wordpress_id: 1154
+categories:
+  - Instagram
+---
+
+[![old tré](/assets/media/2013/07/63c29f46f30d11e28e2d22000a1fbe71_7.jpg)](/assets/media/2013/07/63c29f46f30d11e28e2d22000a1fbe71_7.jpg)

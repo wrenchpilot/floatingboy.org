@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include blog-nav.html %}
+  {% include header-blog.html %}
+  <section class="bg-light" id="about">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <h2 class="section-heading">Blog Posts</h2>
+          {% for post in paginator.posts %}
+          <article>
+            <h2>
+              <a href="{{ post.url }}">
+                {{ post.title }}
+              </a>
+            </h2>
+            <time datetime="{{ post.date | date: " %Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+            {{ post.content }}
+          </article>
+          {% endfor %}
+          <!-- Pagination links -->
+          <div class="pagination">
+            {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}" class="previous">
+              Previous
+            </a>
+            {% else %}
+            <span class="previous">Previous</span>
+            {% endif %}
+            <span class="page_number ">
+              Page: {{ paginator.page }} of {{ paginator.total_pages }}
+            </span>
+            {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+            {% else %}
+            <span class="next ">Next</span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% include contact.html %}
+  {% include scripts.html %}
+</body>
+
+</html>

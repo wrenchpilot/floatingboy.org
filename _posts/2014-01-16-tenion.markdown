@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2014-01-16 00:23:13+00:00
+layout: post
+link: https://floatingboy.org/2014/01/tenion/
+slug: tenion
+title: TEN$ION
+wordpress_id: 1225
+categories:
+  - Instagram
+---
+
+[![TEN$ION](/assets/media/2014/01/69152f7c7e3111e3b43e1234561eacd8_8.jpg)](/assets/media/2014/01/69152f7c7e3111e3b43e1234561eacd8_8.jpg)

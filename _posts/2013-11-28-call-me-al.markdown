@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2013-11-28 05:18:14+00:00
+layout: post
+link: https://floatingboy.org/2013/11/call-me-al/
+slug: call-me-al
+title: Call me Al.
+wordpress_id: 1209
+categories:
+  - Instagram
+---
+
+[![Call me Al.](/assets/media/2013/11/e4e8392057e211e3a67212773ddcd17e_8.jpg)](/assets/media/2013/11/e4e8392057e211e3a67212773ddcd17e_8.jpg)

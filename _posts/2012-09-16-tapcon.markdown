@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2012-09-16 05:09:24+00:00
+layout: post
+link: https://floatingboy.org/2012/09/tapcon/
+slug: tapcon
+title: "@tapcon"
+wordpress_id: 710
+categories:
+  - Instagram
+---
+
+![@tapcon](/assets/media/2012/09/f7b2ca64ff8411e1829522000a1de782_7.jpg)

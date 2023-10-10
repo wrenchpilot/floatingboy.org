@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2015-06-06 01:07:44+00:00
+layout: post
+link: https://floatingboy.org/2015/06/dish-dive/
+slug: dish-dive
+title: Dish Dive
+wordpress_id: 1436
+categories:
+  - Instagram
+---
+
+[![Dish Dive](/assets/media/2015/06/11313330_100366580305778_1772828434_n.jpg)](/assets/media/2015/06/11313330_100366580305778_1772828434_n.jpg)

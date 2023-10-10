@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2018-04-04 19:37:35+00:00
+layout: post
+link: https://floatingboy.org/2018/04/busy-day/
+slug: busy-day
+title: Busy day
+wordpress_id: 1810
+categories:
+  - Instagram
+---
+
+[![Busy day](/assets/media/2018/04/29738924_2116878438329784_4397328521421127680_n.jpg)](/assets/media/2018/04/29738924_2116878438329784_4397328521421127680_n.jpg)

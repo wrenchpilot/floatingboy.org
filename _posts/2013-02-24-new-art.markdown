@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2013-02-24 23:39:46+00:00
+layout: post
+link: https://floatingboy.org/2013/02/new-art/
+slug: new-art
+title: New art.
+wordpress_id: 838
+categories:
+  - Instagram
+---
+
+[![New art.](/assets/media/2013/02/7357940a7ed911e29cc422000aa80493_7.jpg)](/assets/media/2013/02/7357940a7ed911e29cc422000aa80493_7.jpg)

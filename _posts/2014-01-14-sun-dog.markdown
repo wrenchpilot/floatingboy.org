@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2014-01-14 23:15:10+00:00
+layout: post
+link: https://floatingboy.org/2014/01/sun-dog/
+slug: sun-dog
+title: Sun dog.
+wordpress_id: 1222
+categories:
+  - Instagram
+---
+
+[![Sun dog.](/assets/media/2014/01/508315f47d6a11e3a22a0e609b214a58_8.jpg)](/assets/media/2014/01/508315f47d6a11e3a22a0e609b214a58_8.jpg)

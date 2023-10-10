@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2017-12-14 18:15:27+00:00
+layout: post
+link: https://floatingboy.org/2017/12/mr-lewis/
+slug: mr-lewis
+title: Mr. Lewis
+wordpress_id: 1641
+categories:
+  - Instagram
+---
+
+[![Mr. Lewis](/assets/media/2017/12/22427137_337370040007663_7702079961888194560_n.jpg)](/assets/media/2017/12/22427137_337370040007663_7702079961888194560_n.jpg)

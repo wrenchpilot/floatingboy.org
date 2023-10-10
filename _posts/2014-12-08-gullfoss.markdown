@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2014-12-08 20:56:56+00:00
+layout: post
+link: https://floatingboy.org/2014/12/gullfoss/
+slug: gullfoss
+title: Gullfoss
+wordpress_id: 1369
+categories:
+  - Instagram
+---
+
+[![Gullfoss](/assets/media/2014/12/10838816_374701209377250_1159389454_n.jpg)](/assets/media/2014/12/10838816_374701209377250_1159389454_n.jpg)

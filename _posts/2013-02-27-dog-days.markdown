@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2013-02-27 15:12:07+00:00
+layout: post
+link: https://floatingboy.org/2013/02/dog-days/
+slug: dog-days
+title: Dog days.
+wordpress_id: 844
+categories:
+  - Instagram
+---
+
+[![Dog days.](/assets/media/2013/02/9435aaf280ed11e2b9c422000a1f968f_7.jpg)](/assets/media/2013/02/9435aaf280ed11e2b9c422000a1f968f_7.jpg)

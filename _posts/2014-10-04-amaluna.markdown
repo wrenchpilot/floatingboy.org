@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2014-10-04 09:00:10+00:00
+layout: post
+link: https://floatingboy.org/2014/10/amaluna/
+slug: amaluna
+title: Amaluna
+wordpress_id: 1339
+categories:
+  - Instagram
+---
+
+[![Amaluna](/assets/media/2014/10/10691753_281929985337388_1197049130_n.jpg)](/assets/media/2014/10/10691753_281929985337388_1197049130_n.jpg)

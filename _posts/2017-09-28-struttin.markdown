@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2017-09-28 15:00:17+00:00
+layout: post
+link: https://floatingboy.org/2017/09/struttin/
+slug: struttin
+title: struttin’
+wordpress_id: 1629
+categories:
+  - Instagram
+---
+
+[![struttin’](/assets/media/2017/09/21878905_165076600738329_4592061956369678336_n.jpg)](/assets/media/2017/09/21878905_165076600738329_4592061956369678336_n.jpg)

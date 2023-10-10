@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2014-05-07 20:00:39+00:00
+layout: post
+link: https://floatingboy.org/2014/05/savewras/
+slug: savewras
+title: "#savewras"
+wordpress_id: 1296
+categories:
+  - Instagram
+---
+
+[![#savewras](/assets/media/2014/05/10296869_1422536041343285_1322102712_n.jpg)](/assets/media/2014/05/10296869_1422536041343285_1322102712_n.jpg)

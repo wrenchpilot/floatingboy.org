@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2013-08-10 20:46:22+00:00
+layout: post
+link: https://floatingboy.org/2013/08/36000-feet/
+slug: 36000-feet
+title: 36,000 feet
+wordpress_id: 1161
+categories:
+  - Instagram
+---
+
+[![36,000 feet](/assets/media/2013/08/e6f9d1a201d311e398b222000aa80313_7.jpg)](/assets/media/2013/08/e6f9d1a201d311e398b222000aa80313_7.jpg)

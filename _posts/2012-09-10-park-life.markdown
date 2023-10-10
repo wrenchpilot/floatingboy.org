@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2012-09-10 05:34:10+00:00
+layout: post
+link: https://floatingboy.org/2012/09/park-life/
+slug: park-life
+title: park life
+wordpress_id: 698
+categories:
+  - Instagram
+---
+
+![park life](/assets/media/2012/09/e709739efac911e19c2822000a1e8ab9_7.jpg)

@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2012-06-29 23:10:39+00:00
+layout: post
+link: https://floatingboy.org/2012/06/room-temp/
+slug: room-temp
+title: Room temp
+wordpress_id: 481
+categories:
+  - Instagram
+---
+
+![Room temp](/assets/media/2012/06/72303bfcc23e11e1a39b1231381b7ba1_7.jpg)

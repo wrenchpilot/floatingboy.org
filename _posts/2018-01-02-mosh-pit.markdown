@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2018-01-02 14:46:59+00:00
+layout: post
+link: https://floatingboy.org/2018/01/mosh-pit/
+slug: mosh-pit
+title: Mosh pit
+wordpress_id: 1666
+categories:
+  - Instagram
+---
+
+[![Mosh pit](/assets/media/2018/01/25023244_1625705400822950_1319535754308747264_n.jpg)](/assets/media/2018/01/25023244_1625705400822950_1319535754308747264_n.jpg)

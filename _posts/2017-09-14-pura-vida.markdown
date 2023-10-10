@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2017-09-14 13:35:45+00:00
+layout: post
+link: https://floatingboy.org/2017/09/pura-vida/
+slug: pura-vida
+title: Pura Vida
+wordpress_id: 1581
+categories:
+  - Instagram
+---
+
+[![Pura Vida](/assets/media/2017/09/17437761_1850937315176547_2587660230393331712_n.jpg)](/assets/media/2017/09/17437761_1850937315176547_2587660230393331712_n.jpg)

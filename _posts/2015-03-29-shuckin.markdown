@@ -1,0 +1,14 @@
+---
+author: shawn
+comments: true
+date: 2015-03-29 07:42:52+00:00
+layout: post
+link: https://floatingboy.org/2015/03/shuckin/
+slug: shuckin
+title: shuckin&#039;
+wordpress_id: 1399
+categories:
+  - Instagram
+---
+
+[![shuckin'](/assets/media/2015/03/11024331_1633563216880509_1437781192_n.jpg)](/assets/media/2015/03/11024331_1633563216880509_1437781192_n.jpg)
