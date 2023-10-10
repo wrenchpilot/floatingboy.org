@@ -1,0 +1,15 @@
+# Site settings
+title: Floating Boy
+email: shawn@floatingboy.org
+description: > # this means to ignore newlines until "baseurl:"
+  For Reference Only
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://floatingboy.org" # the base hostname & protocol for your site
+domain: floatingboy.org
+
+
+linkedin_username: shawncarnley
+github_username: wrenchpilot
+
+# Build settings
+markdown: kramdown
