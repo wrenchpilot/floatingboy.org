@@ -4,10 +4,11 @@ email: shawn@floatingboy.org
 description: > # this means to ignore newlines until "baseurl:"
   For Reference Only
 baseurl: "" # the subpath of your site, e.g. /blog/
+tag_line: For Reference Only 
 url: "https://floatingboy.org" # the base hostname & protocol for your site
 domain: floatingboy.org
 repository: wrenchpilot/floatingboy.org
-
+full_name: James Shawn Carnley
 linkedin_username: shawncarnley
 github_username: wrenchpilot
 
@@ -20,4 +21,6 @@ paginate_path: "/blog/page:num/"
 github: [metadata]
 
 plugins:
-- jekyll-email-protect
+  - jekyll-email-protect
+
+measurement_id: G-3PQD8PZ0TN
