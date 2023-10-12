@@ -8,6 +8,7 @@ gem "minima"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
+  gem "jekyll-email-protect"
 end
 
 gem "http_parser.rb", :platforms => [:jruby]

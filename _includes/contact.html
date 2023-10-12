@@ -9,19 +9,16 @@
         <div class="col-lg-2 col-lg-offset-2 text-center">
             <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank" rel="noopener noreferrer">
                 <i class="fa-brands fa-linkedin fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                <p>{{ site.linkedin_username }}</p>
             </a>
         </div>
         <div class="col-lg-2 col-lg-offset-1 text-center">
-            <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer">
+            <a href="mailto:{{ site.email | encode_email }}" target="_blank" rel="noopener noreferrer">
             <i class="fa-solid fa-envelope fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                <p>{{ site.email }}</p>
             </a>
         </div>
         <div class="col-lg-2 col-lg-offset-1 text-center">
             <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">
             <i class="fa-brands fa-github fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                <p>{{ site.github_username }}</p>
             </a>
         </div>
 
