@@ -21,6 +21,6 @@ paginate_path: "/blog/page:num/"
 github: [metadata]
 
 plugins:
-  - jekyll-email-protect
+- jekyll-email-protect
 
 measurement_id: G-3PQD8PZ0TN
