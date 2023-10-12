@@ -42,6 +42,12 @@ p {
     margin-bottom: 20px;
 }
 
+article img {
+    max-width: 100%;
+    height: auto; 
+    display: block;
+}
+
 .bg-primary {
     background-color: $theme-primary;
 }
@@ -161,7 +167,6 @@ header#default {
     width: 100%;
     min-height: auto;
     @include background-cover;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -192,6 +197,7 @@ header#default {
         }
     }
     @media (min-width: 768px) {
+        background-attachment: fixed;
         min-height: 100%;
         .header-content {
             position: absolute;
