@@ -1,5 +1,5 @@
 # Site settings
-title: Floating Boy
+title: Floating Boy, LLC
 email: shawn@floatingboy.org
 description: > # this means to ignore newlines until "baseurl:"
   For Reference Only
@@ -20,7 +20,9 @@ paginate_path: "/blog/page:num/"
 
 github: [metadata]
 
-plugins:
-  - jekyll-email-protect
-
 measurement_id: G-3PQD8PZ0TN
+airbnb_id: 30394346
+
+plugins:
+  - jekyll-avatar
+  - jekyll-feed
