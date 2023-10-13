@@ -5,7 +5,7 @@ date: 2012-05-28 23:10:32+00:00
 layout: post
 link: https://floatingboy.org/2012/05/shawns-guide-to-vices-taken-with-instagram/
 slug: shawns-guide-to-vices-taken-with-instagram
-title: No Content Found
+title: Shawn's guide to vices.
 wordpress_id: 280
 categories:
   - Instagram

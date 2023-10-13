@@ -5,7 +5,7 @@ date: 2012-05-12 23:54:16+00:00
 layout: post
 link: https://floatingboy.org/2012/05/bacon-wrapped-quail-with-turnips-and-a-saffron/
 slug: bacon-wrapped-quail-with-turnips-and-a-saffron
-title: No Content Found
+title: Bacon wrapped quail with turnips and a saffron risotto
 wordpress_id: 331
 categories:
   - Instagram

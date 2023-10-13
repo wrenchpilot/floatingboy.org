@@ -5,7 +5,7 @@ date: 2012-05-28 03:51:01+00:00
 layout: post
 link: https://floatingboy.org/2012/05/my-phone-has-a-camera-this-is-a-beer-taken/
 slug: my-phone-has-a-camera-this-is-a-beer-taken
-title: No Content Found
+title: My phone has a camera. This is a beer. 
 wordpress_id: 283
 categories:
   - Instagram

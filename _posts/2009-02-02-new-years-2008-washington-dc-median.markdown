@@ -5,7 +5,7 @@ date: 2009-02-02 17:39:57+00:00
 layout: post
 link: https://floatingboy.org/2009/02/new-years-2008-washington-dc-median/
 slug: new-years-2008-washington-dc-median
-title: No Content Found
+title: New Years 2008, Washington, DC
 wordpress_id: 379
 ---
 

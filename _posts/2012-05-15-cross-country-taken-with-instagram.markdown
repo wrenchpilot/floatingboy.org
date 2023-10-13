@@ -5,7 +5,7 @@ date: 2012-05-15 18:43:53+00:00
 layout: post
 link: https://floatingboy.org/2012/05/cross-country-taken-with-instagram/
 slug: cross-country-taken-with-instagram
-title: No Content Found
+title: Cross Country
 wordpress_id: 316
 categories:
   - Instagram

@@ -5,7 +5,7 @@ date: 2012-05-26 01:27:10+00:00
 layout: post
 link: https://floatingboy.org/2012/05/peter-stroud-monkey-boy-taken-with-instagram/
 slug: peter-stroud-monkey-boy-taken-with-instagram
-title: No Content Found
+title: Peter Stroud & Monkey Boy
 wordpress_id: 289
 categories:
   - Instagram

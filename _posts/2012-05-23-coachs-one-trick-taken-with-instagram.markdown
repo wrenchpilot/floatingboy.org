@@ -5,7 +5,7 @@ date: 2012-05-23 21:10:51+00:00
 layout: post
 link: https://floatingboy.org/2012/05/coachs-one-trick-taken-with-instagram/
 slug: coachs-one-trick-taken-with-instagram
-title: No Content Found
+title: Coach's one trick.
 wordpress_id: 298
 categories:
   - Instagram

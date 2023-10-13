@@ -5,7 +5,7 @@ date: 2012-05-25 23:16:15+00:00
 layout: post
 link: https://floatingboy.org/2012/05/dave-monkey-taken-with-instagram/
 slug: dave-monkey-taken-with-instagram
-title: No Content Found
+title: Dave & Monkey 
 wordpress_id: 295
 categories:
   - Instagram

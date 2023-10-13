@@ -5,7 +5,7 @@ date: 2012-06-21 01:44:47+00:00
 layout: post
 link: https://floatingboy.org/2012/06/the-way-it-was-meant-to-be-on-a-shitty-cassette/
 slug: the-way-it-was-meant-to-be-on-a-shitty-cassette
-title: No Content Found
+title: the way it was meant to be, on a shitty cassette tape.
 wordpress_id: 468
 ---
 

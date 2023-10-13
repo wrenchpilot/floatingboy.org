@@ -5,7 +5,7 @@ date: 2012-05-13 00:55:02+00:00
 layout: post
 link: https://floatingboy.org/2012/05/in-case-of-emergency-taken-with-instagram/
 slug: in-case-of-emergency-taken-with-instagram
-title: No Content Found
+title: In case of emergency… 
 wordpress_id: 328
 categories:
   - Instagram

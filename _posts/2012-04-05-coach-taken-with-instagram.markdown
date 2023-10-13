@@ -5,7 +5,7 @@ date: 2012-04-05 22:12:17+00:00
 layout: post
 link: https://floatingboy.org/2012/04/coach-taken-with-instagram/
 slug: coach-taken-with-instagram
-title: No Content Found
+title: Coach
 wordpress_id: 376
 categories:
   - Instagram

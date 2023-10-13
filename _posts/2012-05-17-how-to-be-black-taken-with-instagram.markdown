@@ -5,7 +5,7 @@ date: 2012-05-17 17:41:14+00:00
 layout: post
 link: https://floatingboy.org/2012/05/how-to-be-black-taken-with-instagram/
 slug: how-to-be-black-taken-with-instagram
-title: No Content Found
+title: How to be black.
 wordpress_id: 310
 categories:
   - Instagram

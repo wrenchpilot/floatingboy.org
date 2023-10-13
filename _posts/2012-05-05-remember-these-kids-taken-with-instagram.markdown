@@ -5,7 +5,7 @@ date: 2012-05-05 21:22:05+00:00
 layout: post
 link: https://floatingboy.org/2012/05/remember-these-kids-taken-with-instagram/
 slug: remember-these-kids-taken-with-instagram
-title: No Content Found
+title: remember these, kids?
 wordpress_id: 343
 categories:
   - Instagram

@@ -5,7 +5,7 @@ date: 2012-05-26 00:54:22+00:00
 layout: post
 link: https://floatingboy.org/2012/05/dave-mark-and-the-atlanta-skyline-taken-with/
 slug: dave-mark-and-the-atlanta-skyline-taken-with
-title: No Content Found
+title: Dave, ?mark and the Atlanta skyline.
 wordpress_id: 292
 categories:
   - Instagram

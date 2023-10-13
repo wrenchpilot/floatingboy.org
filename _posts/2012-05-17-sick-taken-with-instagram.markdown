@@ -5,7 +5,7 @@ date: 2012-05-17 01:12:35+00:00
 layout: post
 link: https://floatingboy.org/2012/05/sick-taken-with-instagram/
 slug: sick-taken-with-instagram
-title: No Content Found
+title: Sick.
 wordpress_id: 313
 categories:
   - Instagram

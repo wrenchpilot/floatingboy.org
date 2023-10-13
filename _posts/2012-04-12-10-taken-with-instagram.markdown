@@ -5,7 +5,7 @@ date: 2012-04-12 21:01:17+00:00
 layout: post
 link: https://floatingboy.org/2012/04/10-taken-with-instagram/
 slug: 10-taken-with-instagram
-title: No Content Found
+title: 10
 wordpress_id: 367
 categories:
   - Instagram

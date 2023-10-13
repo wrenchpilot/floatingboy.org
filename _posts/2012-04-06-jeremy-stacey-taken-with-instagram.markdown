@@ -5,7 +5,7 @@ date: 2012-04-06 04:45:19+00:00
 layout: post
 link: https://floatingboy.org/2012/04/jeremy-stacey-taken-with-instagram/
 slug: jeremy-stacey-taken-with-instagram
-title: No Content Found
+title: Jeremy Stacey
 wordpress_id: 373
 categories:
   - Instagram

@@ -5,7 +5,7 @@ date: 2012-05-13 01:55:13+00:00
 layout: post
 link: https://floatingboy.org/2012/05/next-generation-taken-with-instagram/
 slug: next-generation-taken-with-instagram
-title: No Content Found
+title: Next generation.
 wordpress_id: 325
 categories:
   - Instagram

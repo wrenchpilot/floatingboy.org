@@ -5,7 +5,7 @@ date: 2012-05-26 14:46:01+00:00
 layout: post
 link: https://floatingboy.org/2012/05/smooth-at-45-revolutions-per-minute-taken-with/
 slug: smooth-at-45-revolutions-per-minute-taken-with
-title: No Content Found
+title: Smooth at 45 revolutions per minute
 wordpress_id: 286
 categories:
   - Instagram

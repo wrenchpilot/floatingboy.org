@@ -5,7 +5,7 @@ date: 2012-06-09 17:03:53+00:00
 layout: post
 link: https://floatingboy.org/2012/06/root-canal-w-a-bloody-mary-taken-with/
 slug: root-canal-w-a-bloody-mary-taken-with
-title: No Content Found
+title: Root canal /w a bloody Mary.
 wordpress_id: 274
 categories:
   - Instagram

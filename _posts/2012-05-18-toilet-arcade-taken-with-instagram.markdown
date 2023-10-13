@@ -5,7 +5,7 @@ date: 2012-05-18 15:46:54+00:00
 layout: post
 link: https://floatingboy.org/2012/05/toilet-arcade-taken-with-instagram/
 slug: toilet-arcade-taken-with-instagram
-title: No Content Found
+title: Toilet Arcade
 wordpress_id: 307
 categories:
   - Instagram

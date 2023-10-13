@@ -5,7 +5,7 @@ date: 2012-06-04 00:19:51+00:00
 layout: post
 link: https://floatingboy.org/2012/06/bbq-boneless-short-rib-field-pea-succotash-w/
 slug: bbq-boneless-short-rib-field-pea-succotash-w
-title: No Content Found
+title: BBQ boneless short-rib, field pea succotash w/ Mark West Pinot Noir. Angel is too good to me.
 wordpress_id: 277
 categories:
   - Instagram

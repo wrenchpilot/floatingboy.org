@@ -5,7 +5,7 @@ date: 2012-05-13 01:56:06+00:00
 layout: post
 link: https://floatingboy.org/2012/05/when-doves-cry-taken-with-instagram/
 slug: when-doves-cry-taken-with-instagram
-title: No Content Found
+title: When doves cry.
 wordpress_id: 322
 categories:
   - Instagram

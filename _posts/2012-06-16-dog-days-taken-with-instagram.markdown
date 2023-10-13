@@ -5,7 +5,7 @@ date: 2012-06-16 15:43:33+00:00
 layout: post
 link: https://floatingboy.org/2012/06/dog-days-taken-with-instagram/
 slug: dog-days-taken-with-instagram
-title: No Content Found
+title: Dog days
 wordpress_id: 265
 categories:
   - Instagram
