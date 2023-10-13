@@ -65,6 +65,20 @@ time {
     font-weight: bold;
 }
 
+.github-profile-badge-wrapper {
+    padding-top: 5px;
+}
+
+.custom-background .github-profile-badge-name-wrapper {
+    background: gray;
+}
+
+.custom-background .github-profile-badge-name {
+    color: black;
+    font-weight: bold;
+}
+
+
 .bg-primary {
     background-color: $theme-primary;
 }
