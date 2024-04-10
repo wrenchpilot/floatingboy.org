@@ -15,6 +15,9 @@ github_username: wrenchpilot
 # Build settings
 markdown: kramdown
 
+# Encoding
+encoding: utf-8
+
 paginate: 20
 paginate_path: "/blog/page:num/"
 
