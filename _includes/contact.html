@@ -2,10 +2,10 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">Let's Get In Touch!</h2>
+                <h2 class="section-heading">Contatct</h2>
                 <hr class="primary">
-                <p>Ready to start your next project? That's great! Send me an email and I will get back to you as soon
-                    as possible!</p>
+                <p>If you're interested in starting a new project, you can send me an email and I will respond when
+                    available.</p>
             </div>
             <div class="col-lg-2 col-lg-offset-2 text-center">
                 <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank"
@@ -14,9 +14,16 @@
                 </a>
             </div>
             <div class="col-lg-2 col-lg-offset-1 text-center">
-                <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer">
+                <a href="javascript:void(0);" onclick="contactMe()" rel="noopener noreferrer">
                     <i class="fa-solid fa-envelope fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                 </a>
+                <script>
+                    function contactMe() {
+                        var username = '{{ site.email | split: "@" | first }}';
+                        var domain = '{{ site.email | split: "@" | last }}';
+                        window.location.href = 'mailto:' + username + '@' + domain;
+                    }
+                </script>
             </div>
             <div class="col-lg-2 col-lg-offset-1 text-center">
                 <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">
