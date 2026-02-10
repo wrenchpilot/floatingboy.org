@@ -131,8 +131,53 @@ document.addEventListener("DOMContentLoaded", function() {
     elements.forEach(element => {
         element.addEventListener("click", function(event) {
             event.preventDefault();
-            document.getElementById('lightbox').innerHTML = '<a id="close"></a><a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a><div class="img" style="background: url(\''+this.getAttribute('href')+'\') center center / contain no-repeat;" title="'+this.getAttribute('title')+'" ><img src="'+this.getAttribute('href')+'" alt="'+this.getAttribute('title')+'" /></div><span>'+this.getAttribute('title')+'</span>';
-            document.getElementById('lightbox').style.display = 'block';
+            var lightbox = document.getElementById('lightbox');
+            // clear existing content
+            lightbox.textContent = '';
+
+            // close button
+            var closeLink = document.createElement('a');
+            closeLink.setAttribute('id', 'close');
+            lightbox.appendChild(closeLink);
+
+            // next button
+            var nextLink = document.createElement('a');
+            nextLink.setAttribute('id', 'next');
+            nextLink.innerHTML = '&rsaquo;';
+            lightbox.appendChild(nextLink);
+
+            // prev button
+            var prevLink = document.createElement('a');
+            prevLink.setAttribute('id', 'prev');
+            prevLink.innerHTML = '&lsaquo;';
+            lightbox.appendChild(prevLink);
+
+            var href = this.getAttribute('href');
+            var title = this.getAttribute('title') || '';
+
+            // image container
+            var imgContainer = document.createElement('div');
+            imgContainer.className = 'img';
+            imgContainer.setAttribute('title', title);
+            imgContainer.style.backgroundImage = "url('" + href + "')";
+            imgContainer.style.backgroundPosition = 'center center';
+            imgContainer.style.backgroundSize = 'contain';
+            imgContainer.style.backgroundRepeat = 'no-repeat';
+
+            // image element
+            var img = document.createElement('img');
+            img.setAttribute('src', href);
+            img.setAttribute('alt', title);
+            imgContainer.appendChild(img);
+
+            lightbox.appendChild(imgContainer);
+
+            // caption
+            var caption = document.createElement('span');
+            caption.textContent = title;
+            lightbox.appendChild(caption);
+
+            lightbox.style.display = 'block';
 
             setGallery(this);
         });
